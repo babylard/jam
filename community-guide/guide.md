@@ -93,7 +93,7 @@ As a basic example, we're going to try and get an unavalible animal using the in
 
 In my case I bought a Deer, and the packet I got was `%xt%o%aa%8817%15202%27120%15327%3%-1%-1%-1%` after clicking Buy.
 
-Now if we look in the json file labeled Animals in our DefPacks, we can search for the Deer by pressing `ctrl + f` to search in your text editor.
+Now if we look in the json file labeled Animals in our DefPacks, we can search for the Deer by pressing `ctrl + f` to search in your text editor of choice.
 
 ![animals.png](Images/animals.png)
 
